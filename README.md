@@ -17,3 +17,5 @@ This repository contains the source code of a frontend application that interact
 4. Configure the API endpoint in the `.env` file if necessary.
 5. Start the development server: `npm run dev`
 6. Access the application in your web browser at `http://localhost:5173` by default.
+
+![home](https://github.com/Xseb4s/frontend-bankia/assets/138510395/0ccc5ccb-55a4-45e6-9ae1-0bd079e5a342)
