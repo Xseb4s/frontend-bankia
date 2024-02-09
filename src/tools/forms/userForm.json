@@ -1,0 +1,53 @@
+{
+    "id": {
+      "name": "id",
+      "label": "User Id",
+      "type": "number"
+    },
+    "status": {
+      "name": "status",
+      "label": "User status",
+      "type": "number"
+    },
+    "name": {
+      "name": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    "surname": {
+      "name": "surname",
+      "label": "Last name",
+      "type": "string"
+    },
+    "email":{
+      "name":"email",
+      "label":"Email",
+      "type":"email"
+    },
+    "password":{
+      "name":"password",
+      "label":"Password",
+      "type":"string"
+    },
+    "created_at": {
+      "name":"created_at",
+      "label":"Created at",
+      "type":"datetime"
+    },
+    "updated_at": {
+      "name":"updated_at",
+      "label":"Updated at",
+      "type":"datetime"
+    },
+    "fk_role":{
+      "name":"fk_role",
+      "label":"Role",
+      "type":"number"
+    },
+    "role":{
+      "name":"role",
+      "label":"Roles",
+      "type":"string"
+    }
+}
+  

@@ -1,0 +1,75 @@
+{
+  
+    "id": {
+      "name": "id",
+      "label": "User Id",
+      "type": "number"
+    },
+    "amount": {
+      "name":"amount",
+      "label":"Amount $",
+      "type":"number"
+    },
+    "dues": {
+      "name":"dues",
+      "label":"Dues",
+      "type":"number"
+    },
+    "observation": {
+      "name":"observation",
+      "label":"Adviser Observation",
+      "type":"string"
+    },
+    "status": {
+      "name": "status",
+      "label": "Request Status",
+      "type": "number"
+    },
+    "description": {
+      "name":"description",
+      "label":"Description",
+      "type":"string"
+    },
+    "typeid": {
+      "name":"typeid",
+      "label":"Type id",
+      "type":"number"
+    },
+    "type": {
+      "name":"type",
+      "label":"Type",
+      "type":"string"
+    },
+    "interest": {
+      "name":"interest",
+      "label":"Interest %",
+      "type":"number"
+    },
+    "client_id":{
+      "name":"client_id",
+      "label":"Client Id",
+      "type":"number"
+    },
+    "client_name": {
+      "name":"client_name",
+      "label":"Client Name",
+      "type":"string"
+    },
+    "client_surname": {
+      "name":"client_surname",
+      "label":"Client Last Name",
+      "type":"String"
+    },
+    
+    "created_at": {
+      "name":"created_at",
+      "label":"Requested At",
+      "type":"datetime"
+    },
+    "updated_at": {
+      "name":"updated_at",
+      "label":"Updated at",
+      "type":"datetime"
+    }
+}
+  

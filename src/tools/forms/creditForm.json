@@ -1,0 +1,98 @@
+{
+    "id": {
+      "name": "id",
+      "label": "Credit Id",
+      "type": "number"
+    },
+    "status": {
+      "name": "status",
+      "label": "Status",
+      "type": "number"
+    },
+    "client_id": {
+      "name":"client_id",
+      "label":"Client Id",
+      "type":"number"
+    },
+    "client_name": {
+      "name": "name",
+      "label": "Client Name",
+      "type": "string"
+    },
+    "client_surname": {
+      "name": "surname",
+      "label": "Client Last name",
+      "type": "string"
+    },
+    "client_email":{
+      "name":"email",
+      "label":"Client Email",
+      "type":"email"
+    },
+    "account_number": {
+      "name":"account_number",
+      "label":"Account Number",
+      "type":"number"
+    },
+    "amount": {
+      "name":"amount",
+      "label":"Amount $",
+      "type":"number"
+    },
+    "dues":{
+      "name":"dues",
+      "label":"Dues",
+      "type":"number"
+    },
+    "fee_value": {
+      "name":"fee_value",
+      "label":"Fee Value $",
+      "type":"number"
+    },
+    "typeid": {
+      "name":"typeid",
+      "label":"Type id",
+      "type":"number"
+    },
+    "type_credit": {
+      "name":"type_credit",
+      "label":"Type Credit",
+      "type":"string"
+    },
+    "interest": {
+      "name":"interest",
+      "label":"Interest %",
+      "type":"number"
+    },
+    "created_at": {
+      "name":"created_at",
+      "label":"Created at",
+      "type":"date"
+    },
+    "updated_at": {
+      "name":"updated_at",
+      "label":"Updated At",
+      "type":"date"
+    },
+    "approver_id":{
+      "name":"approver_id",
+      "label":"Approver Id",
+      "type":"number"
+    },
+    "approver_name":{
+      "name":"approver_name",
+      "label":"Approver Name",
+      "type":"string"
+    },
+    "approver_email":{
+      "name":"approver_email",
+      "label":"Approver Email",
+      "type":"string"
+    },
+    "approver_role":{
+      "name":"approver_role",
+      "label":"Approver Name",
+      "type":"string"
+    } 
+}
+  
